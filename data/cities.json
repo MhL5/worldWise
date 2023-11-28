@@ -1,18 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
       "cityName": "Madrid",
       "country": "Spain",
       "emoji": "🇪🇸",
@@ -35,6 +23,54 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Premanon",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-11-28T18:46:14.216Z",
+      "notes": "test",
+      "position": {
+        "lat": "46.45299704748291",
+        "lng": "6.020507812500001"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Aliaga",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-28T18:47:38.462Z",
+      "notes": "test",
+      "position": {
+        "lat": "40.66397287638688",
+        "lng": "-0.6591796875000001"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Balearic Sea",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-28T18:49:37.031Z",
+      "notes": "test",
+      "position": {
+        "lat": "39.16414104768742",
+        "lng": "0"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Villahan",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-28T18:53:52.743Z",
+      "notes": "sa",
+      "position": {
+        "lat": "42.06560675405716",
+        "lng": "-4.130859375000001"
+      },
+      "id": 98443205
     }
   ]
 }
